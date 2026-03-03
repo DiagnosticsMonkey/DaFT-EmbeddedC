@@ -2,7 +2,7 @@
 
 #  DaFT : C for Sparkplugs <small>0.1</small>
 
->  Diagnostics and Friends Teach : Embedded C
+>  Diagnostics and Friends Teach : C for Sparkplugs (Embedded C)
 
 - :shit:
 - :tea: or :beer:
